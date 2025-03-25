@@ -27,7 +27,7 @@ cargo install --path .
 
 1. Clone the repository:
    ```bash
-   git clone http://git.axiom/luke/urlencode.git
+   git clone https://github.com/lukecampbell/urlencode.git
    cd urlencode
    ```
 
@@ -81,4 +81,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Luke Campbell - luke@axds.co
 
-Project Link: [http://git.axiom/luke/urlencode](http://git.axiom/luke/urlencode)
+Project Link: [https://github.com/lukecampbell/urlencode](https://github.com/lukecampbell/urlencode)
