@@ -79,6 +79,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Luke Campbell - luke@axds.co
+Luke Campbell - @lukecampbell on Github
 
 Project Link: [https://github.com/lukecampbell/urlencode](https://github.com/lukecampbell/urlencode)
